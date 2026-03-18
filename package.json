@@ -1,0 +1,12 @@
+{
+  "name": "mc-rehber-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.10.0",
+    "minecraft-data": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
